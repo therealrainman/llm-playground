@@ -445,4 +445,4 @@ Out[10]:
 In [11]: input_ids=torch.tensor([[101, 23, 45, 23, 102], [101, 25, 34, 22, 102]])
 
 In [12]: model.embeddings.word_embeddings
-Out[12]: Embedding(30522, 768, padding_idx=0
+Out[12]: Embedding(30522, 768, padding_idx=0)
